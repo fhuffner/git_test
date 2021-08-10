@@ -1,1 +1,1 @@
-# git_test
+This is the first git project of Fhuffner
